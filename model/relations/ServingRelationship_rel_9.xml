@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel_9">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_tec_cloud_saas.xml#tec_cloud_saas"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_app_seller.xml#app_seller"/>
+</archimate:ServingRelationship>

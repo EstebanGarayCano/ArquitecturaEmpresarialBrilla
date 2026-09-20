@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistemas Core / Legacy Distribuidoras"
+    id="app_legacy"
+    documentation="Sistemas heredados de recaudos y cupos"/>

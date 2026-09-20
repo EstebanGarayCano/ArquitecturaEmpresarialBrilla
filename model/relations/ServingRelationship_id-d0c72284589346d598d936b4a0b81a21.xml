@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d0c72284589346d598d936b4a0b81a21">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_tec_net.xml#tec_net"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_tec_onprem.xml#tec_onprem"/>
+</archimate:ServingRelationship>

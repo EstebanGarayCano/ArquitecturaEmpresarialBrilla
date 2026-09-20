@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9180adfdba5d4ceb962b9a540d88bba3">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_tec_db.xml#tec_db"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_tec_net.xml#tec_net"/>
+</archimate:ServingRelationship>

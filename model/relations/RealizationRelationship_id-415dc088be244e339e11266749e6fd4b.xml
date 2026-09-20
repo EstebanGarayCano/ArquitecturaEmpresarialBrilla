@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-415dc088be244e339e11266749e6fd4b">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_tec_art_db.xml#tec_art_db"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_tec_db.xml#tec_db"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de Base de Datos Corporativo"
+    id="tec_db"
+    documentation="RDBMS para persistencia de transacciones y auditoría"/>

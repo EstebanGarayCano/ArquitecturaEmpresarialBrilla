@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capa de Integración / API Gateway"
+    id="app_gw"
+    documentation="Fachada middleware para desacoplamiento con legados"/>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d27fd7fa9e4949ae89a9c31e850a1fb0">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_if_api.xml#if_api"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_tec_onprem.xml#tec_onprem"/>
+</archimate:ServingRelationship>

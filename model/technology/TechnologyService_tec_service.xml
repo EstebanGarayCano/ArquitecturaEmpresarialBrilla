@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Cómputo y Almacenamiento"
+    id="tec_service"
+    documentation="Capacidad de procesamiento provista por los nodos cloud"/>

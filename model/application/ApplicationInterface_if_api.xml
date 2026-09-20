@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APIs REST de Ingesta y Pagos"
+    id="if_api"
+    documentation="Puntos de acceso síncronos para comunicación entre módulos"/>

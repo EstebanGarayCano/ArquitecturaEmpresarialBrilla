@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Esquema BD Transaccional"
+    id="tec_art_db"
+    documentation="Estructura física en disco que realiza al objeto de datos de transacción"/>

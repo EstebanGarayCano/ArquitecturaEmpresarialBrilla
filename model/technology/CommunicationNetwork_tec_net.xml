@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enlace Seguro HTTPS / VPN"
+    id="tec_net"
+    documentation="Canal de red cifrado para interconexión multi-nube"/>

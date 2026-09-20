@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Autenticación e Identidad (SSO)"
+    id="app_sso"
+    documentation="Gestión de sesión y credenciales de clientes"/>

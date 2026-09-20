@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro de Transacción"
+    id="data_tx"
+    documentation="Objeto de datos de la compra e historial de crédito"/>
