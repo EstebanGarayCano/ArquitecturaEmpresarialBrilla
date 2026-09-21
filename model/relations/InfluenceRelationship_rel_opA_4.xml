@@ -1,0 +1,11 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel_opA_4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_app_gw.xml#app_gw"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_assess_desacop.xml#assess_desacop"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alto Acoplamiento de Esquema"
+    id="assess_acoplam"
+    documentation="Evaluacion: Cambios en la base de datos impactan directamente a la aplicacion web"/>

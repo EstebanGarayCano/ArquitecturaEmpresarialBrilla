@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Riesgo de Seguridad en Datos Core"
+    id="assess_sec"
+    documentation="Evaluacion: Exposicion directa de tablas sensibles a peticiones del canal digital"/>

@@ -1,0 +1,11 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel_opA_2">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_db_shared.xml#db_shared"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_assess_acoplam.xml#assess_acoplam"/>
+</archimate:InfluenceRelationship>

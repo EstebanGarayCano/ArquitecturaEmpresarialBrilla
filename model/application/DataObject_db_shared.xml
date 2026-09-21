@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base de Datos Compartida (Tablas Expuestas)"
+    id="db_shared"
+    documentation="Esquema tradicional descartado que expone tablas internas directamente"/>

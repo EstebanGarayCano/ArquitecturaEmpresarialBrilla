@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desacoplamiento y Control Perimetral"
+    id="assess_desacop"
+    documentation="Evaluacion: Fachada centralizada que aisla el backend y gestiona politicas de seguridad"/>
